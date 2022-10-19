@@ -1,1 +1,3 @@
-# DCI_JS_Project
+# DCI_JS_Project-Hangman
+
+
