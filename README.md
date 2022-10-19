@@ -15,7 +15,7 @@ This intermediate project was created as part of a training course for full-stac
 - To exit the game early, type `exit`.
 - To replay the game, press the `F5` key in the internet browser.
 
-
+______________________________________________________________________________________________________________________________________________________________________
 
 ##### DE:
 ## DCI_JS_Project-Hangman
