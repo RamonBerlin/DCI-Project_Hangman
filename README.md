@@ -9,7 +9,7 @@ This intermediate project was created as part of a training course for full-stac
 - To start the game run the index.html file.
 - The entries are made via a pop-up window.
 - To exit the game early, type `exit`.
-- To replay the game, press F5 in the internet browser.
+- To replay the game, press the `F5` key in the internet browser.
 
 DE:
 ## DCI_JS_Project-Hangman
@@ -22,5 +22,5 @@ Dieses Zwischen-Projekt entstand im Rahmen eines Weiterbildungskurses zum Fullst
 - Um das Spiel zu starten führe die index.html Datei aus.
 - Die Eingaben erfolgen über ein Popupfenster.
 - Um das Spiel vorzeitig zu beenden gib `exit` ein.
-- Um das Spiel zu wiederholen drücke im Internetbrowser F5
+- Um das Spiel zu wiederholen drücke im Internetbrowser die `F5` Taste
 
