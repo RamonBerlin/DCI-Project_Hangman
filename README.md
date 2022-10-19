@@ -2,7 +2,7 @@ EN:
 # DCI_JS_Project-Hangman
 The DCI_JS_Project-Hangman is the well-known guessing [Hangman](https://en.wikipedia.org/wiki/Hangman_(game))
 
-## Why
+### Why
 This intermediate project was created as part of a training course for full-stack web developers.
 
 ## How to use
