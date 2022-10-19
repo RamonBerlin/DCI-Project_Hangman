@@ -1,5 +1,6 @@
-#####EN:
-##DCI_JS_Project-Hangman
+##### EN:
+
+## DCI_JS_Project-Hangman
 
 The DCI_JS_Project-Hangman is the well-known guessing [Hangman](https://en.wikipedia.org/wiki/Hangman_(game))
 
@@ -14,8 +15,10 @@ This intermediate project was created as part of a training course for full-stac
 - To exit the game early, type `exit`.
 - To replay the game, press the `F5` key in the internet browser.
 
-#####DE:
-##DCI_JS_Project-Hangman
+
+
+##### DE:
+## DCI_JS_Project-Hangman
 
 Bei dem DCI_JS_Project-Hangman handelt es sich um das bekannte Ratespiel [Hangman](https://de.wikipedia.org/wiki/Galgenm%C3%A4nnchen) im deutschen auch bekannt als Galgenmännchen.
 
